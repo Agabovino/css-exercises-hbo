@@ -1,0 +1,16 @@
+.red-bg{
+    background-color: rgb(221, 122, 122);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+#font-blue{
+    color: blue;
+    font-size: 36px;
+}
+
+#bg-green{
+    background-color: rgb(132, 216, 129);
+    font-weight: bold;
+    font-size: 24px;
+}
